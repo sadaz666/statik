@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home2"
+        android:title="Home"
+        android:icon="@drawable/home_click"
+        />
+    <item
+        android:id="@+id/statics"
+        android:title="Statics"
+        android:icon="@drawable/static_no_click"
+        />
+    <item
+        android:id="@+id/routines"
+        android:title="Routines"
+        android:icon="@drawable/routin_no_click"
+        />
+    <item
+        android:id="@+id/settings"
+        android:title="Setting"
+        android:icon="@drawable/setting_no_click"
+        />
+</menu>
